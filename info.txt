@@ -1,2 +1,4 @@
-Diese Info wurde auf GitHub erstellt
+﻿Diese Info wurde auf GitHub erstellt
 Hier kommt die Änderung
+
+Eine lokale Änderung
